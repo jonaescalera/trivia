@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The external JavaScript file must contain the script tag.",
+      "answers": ["False", "True"],
+      "correct_answer": "1"
+    },
+    {
+      "id": 2,
+      "question": "What is used to pass data to a component from outside?",
+      "answers": ["setstate", "props"],
+      "correct_answer": "2"
+    },
+    {
+      "id": 3,
+      "question": "What is the correct syntax for referring to an external script called xxx.js?",
+      "answers": ["script src='xxx.js'", "script name='xxx.js'"],
+
+      "correct_answer": "1"
+    },
+    {
+      "id": 4,
+      "question": "How do you write 'Hello World' in an alert box? ",
+      "answers": ["alertBox('Hello World');  ", "alert('Hello World');"],
+
+      "correct_answer": "2"
+    }
+  ]
+}
